@@ -1,0 +1,147 @@
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="restaurantjinxing.cl" resolutions="1x" timestamp="1438540044999">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4275183135" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4275009916" seo="true" mt="1438539789683" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3819658877" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="promo-12-piezas-sushi-sutido-sin-precio.jpg" crc="486862716" seo="true" mt="1437762306000"/>
+    <file name="promo-sushi-sutido-18-piezas-sinprecio.jpg" crc="264117105" seo="true" mt="1437762504000"/>
+    <file name="promo-24-piezas-surtido-sin-precio_especialidad.jpg" crc="3923258380" seo="true" mt="1437762186000"/>
+    <file name="tori-palta-roll-pollo-apanado-queso-crema-ciboulette---3980___2.jpg" crc="7266684" seo="true" mt="1437882247000"/>
+    <file name="img-20150727-wa0016.jpg" crc="4262907989" seo="true" mt="1438216903000"/>
+    <file name="california_ebi-camaron--quesocrema-palta-env-ciboulette-1-roll-8-piezas-3980.jpg" crc="3997516896" seo="true" mt="1437762144000"/>
+    <file name="promo-12-piezas-sushi-sutido-sin-precio2.jpg" crc="486862716" seo="true" mt="1437762306000"/>
+    <file name="promo-sushi-sutido-18-piezas-sinprecio2.jpg" crc="264117105" seo="true" mt="1437762504000"/>
+    <file name="promo-24-piezas-surtido-sin-precio_especialidad2.jpg" crc="3923258380" seo="true" mt="1437762186000"/>
+    <file name="california_ebi-camaron--quesocrema-palta-env-ciboulette-1-roll-8-piezas-39802.jpg" crc="3997516896" seo="true" mt="1437762144000"/>
+    <file name="tori-palta-roll-pollo-apanado-queso-crema-ciboulette---3980___22.jpg" crc="7266684" seo="true" mt="1437882247000"/>
+    <file name="sushi_1.jpg" crc="7906456" seo="true" mt="1438205140000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:phone>index"/>
+    <file name="museutils.js" crc="334180058" ref="index:phone>index"/>
+    <file name="webpro.js" crc="7309900" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="526709374" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3865564493" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index"/>
+    <file name="form_check.php" crc="481505460" ref="index"/>
+    <file name="form_throttle.php" crc="190635071" ref="index"/>
+    <file name="form_process.php" crc="3869018311" ref="index"/>
+    <file name="form-u896.php" crc="3893795941" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3941817638" ref="index"/>
+    <file name="museredirect.js" crc="390470276" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="banner_3.jpg" crc="471404733" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="sushis.jpg" crc="338268607" seo="true" ref="phone>index"/>
+    <file name="platos_varios.jpg" crc="79000170" seo="true" ref="phone>index"/>
+    <file name="banner_1.jpg" crc="4078698389" seo="true" ref="index"/>
+    <file name="banner_2.jpg" crc="3787338009" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="11-u1340-fr.png" crc="132722718" ref="index"/>
+    <file name="logo_jin_xing-u1341.png" crc="3807191006" ref="index"/>
+    <file name="u2221.png" crc="4062070791" ref="index"/>
+    <file name="u2221-r.png" crc="4281058634" ref="index"/>
+    <file name="u2108-4.png" crc="434407098" ref="index"/>
+    <file name="local_01.jpg" crc="4226350677" seo="true" ref="index:phone>index"/>
+    <file name="history.jpg" crc="4240127286" seo="true" ref="phone>index"/>
+    <file name="sopas_chinas.jpg" crc="535716212" seo="true" ref="index:phone>index"/>
+    <file name="promo-sushi sutido-18-piezas-sinprecio-crop-u2320.jpg" crc="4163137742" ref="index"/>
+    <file name="u471-4.png" crc="3401044" ref="index"/>
+    <file name="u966-4.png" crc="150531026" ref="index"/>
+    <file name="u1104-4.png" crc="4052846997" ref="index"/>
+    <file name="u1111-4.png" crc="4270443938" ref="index"/>
+    <file name="u1112-4.png" crc="326916690" ref="index"/>
+    <file name="separator.png" crc="57065667" seo="true" ref="index"/>
+    <file name="u986-4.png" crc="465404133" ref="index"/>
+    <file name="u987-4.png" crc="79765381" ref="index"/>
+    <file name="u988-4.png" crc="3936582130" ref="index"/>
+    <file name="u989-4.png" crc="3927267391" ref="index"/>
+    <file name="u990-4.png" crc="4154430313" ref="index"/>
+    <file name="u991-4.png" crc="3783191402" ref="index"/>
+    <file name="u1013-4.png" crc="507169838" ref="index"/>
+    <file name="u1016-4.png" crc="349557379" ref="index"/>
+    <file name="u1014-4.png" crc="4103939058" ref="index"/>
+    <file name="u1017-4.png" crc="3820071283" ref="index"/>
+    <file name="u1015-4.png" crc="4042452543" ref="index"/>
+    <file name="u1085-4.png" crc="4014668765" ref="index"/>
+    <file name="promo-12-piezas-sushi-sutido-sin-precio285x161.jpg" crc="4294160640" seo="true" ref="index"/>
+    <file name="promo-sushi sutido-18-piezas-sinprecio287x162.jpg" crc="385197882" seo="true" ref="index"/>
+    <file name="promo-24-piezas-surtido-sin-precio_especialidad286x162.jpg" crc="4032033964" seo="true" ref="index"/>
+    <file name="coctel_icon.png" crc="500751709" seo="true" ref="index"/>
+    <file name="almuerzos_icon.png" crc="3781877358" seo="true" ref="index"/>
+    <file name="almuerzo_icon_2.png" crc="4217208789" seo="true" ref="index"/>
+    <file name="almuerzo_icon.png" crc="3855712849" seo="true" ref="index"/>
+    <file name="vino_icon.png" crc="4159130403" seo="true" ref="index"/>
+    <file name="sushi_icon.gif" crc="3950506776" seo="true" ref="index"/>
+    <file name="u216-grad.png" crc="412123318" ref="index"/>
+    <file name="u949-4.png" crc="4169796667" ref="index"/>
+    <file name="arroz_chaufan_especial.jpg" crc="3826475798" seo="true" ref="index"/>
+    <file name="carne_mongoliana_1.jpg" crc="116457454" seo="true" ref="index"/>
+    <file name="chaumin_carne.jpg" crc="143859295" seo="true" ref="index"/>
+    <file name="u186-4.png" crc="3820452997" ref="index"/>
+    <file name="especialidades.jpg" crc="331064312" ref="phone>index" seo="true"/>
+    <file name="u175-4.png" crc="72454471" ref="index"/>
+    <file name="u817-4.png" crc="383994495" ref="index"/>
+    <file name="california_ebi-camaron--quesocrema-palta-env ciboulette-1 roll 8 piezas 3980.jpg" crc="438773794" seo="true" ref="index"/>
+    <file name="chapsui-de-pollo.jpg" crc="278334844" seo="true" ref="index"/>
+    <file name="colacion-carne-mongoliana-papas-3900-2.jpg" crc="98303981" seo="true" ref="index"/>
+    <file name="colacion-pollo-mongoliano-con-arroz---2.jpg" crc="506733696" seo="true" ref="index"/>
+    <file name="tori-palta-roll-pollo apanado-queso crema-ciboulette - 3980___2.jpg" crc="3886798581" seo="true" ref="index"/>
+    <file name="promo-12-piezas-sushi-sutido-sin-precio.jpg" crc="486862716" seo="true" ref="index"/>
+    <file name="promo-sushi sutido-18-piezas-sinprecio.jpg" crc="18591969" seo="true" ref="index"/>
+    <file name="promo-24-piezas-surtido-sin-precio_especialidad.jpg" crc="4216971519" seo="true" ref="index"/>
+    <file name="california_ebi-camaron--quesocrema-palta-env ciboulette-1 roll 8 piezas 3980-crop-u1758.jpg" crc="475005057" ref="index"/>
+    <file name="chapsui-de-pollo-crop-u1752.jpg" crc="4051288027" ref="index"/>
+    <file name="colacion-carne-mongoliana-papas-3900-2-crop-u1756.jpg" crc="4256717119" ref="index"/>
+    <file name="colacion-pollo-mongoliano-con-arroz---2-crop-u1762.jpg" crc="187864572" ref="index"/>
+    <file name="tori-palta-roll-pollo apanado-queso crema-ciboulette - 3980___2-crop-u1760.jpg" crc="4115445070" ref="index"/>
+    <file name="promo-12-piezas-sushi-sutido-sin-precio-crop-u1754.jpg" crc="278533645" ref="index"/>
+    <file name="promo-sushi sutido-18-piezas-sinprecio-crop-u1766.jpg" crc="380737565" ref="index"/>
+    <file name="promo-24-piezas-surtido-sin-precio_especialidad-crop-u1764.jpg" crc="3898484705" ref="index"/>
+    <file name="user.png" crc="157352954" ref="index"/>
+    <file name="u910-17.png" crc="432094413" ref="index"/>
+    <file name="u910-17-r.png" crc="219830836" ref="index"/>
+    <file name="u910-17-m.png" crc="219830836" ref="index"/>
+    <file name="u910-17-fs.png" crc="4143285789" ref="index"/>
+    <file name="u821-4.png" crc="159726905" ref="index"/>
+    <file name="u819-4.png" crc="412463419" ref="index"/>
+    <file name="u111-4.png" crc="164650495" ref="index"/>
+    <file name="corner.png" crc="532837139" ref="index"/>
+    <file name="u2700.png" crc="293655425" ref="index"/>
+    <file name="u2700-a.png" crc="78320269" ref="index"/>
+    <file name="u2704.png" crc="3918759204" ref="index"/>
+    <file name="u2704-a.png" crc="3781817919" ref="index"/>
+    <file name="california_ebi-camaron--quesocrema-palta-env ciboulette-1 roll 8 piezas 3980242x136.jpg" crc="197295279" seo="true" ref="index"/>
+    <file name="sushi_1.jpg" crc="4240962157" seo="true" ref="index"/>
+    <file name="u2849_states.png" crc="37617001" ref="index"/>
+    <file name="u2849_states-r.png" crc="242674785" ref="index"/>
+    <file name="logo_jin_xing-u3074.png" crc="4032553555" ref="phone>index"/>
+    <file name="platos_varios2.jpg" crc="79000170" seo="true" ref="index"/>
+    <file name="sushis2.jpg" crc="338268607" seo="true" ref="index"/>
+    <file name="banner_22.jpg" crc="3787338009" seo="true" ref="index"/>
+    <file name="u3077.png" crc="54752734" ref="index"/>
+    <file name="u3077-r.png" crc="4014473061" ref="index"/>
+    <file name="especialidades2.jpg" crc="331064312" ref="index"/>
+    <file name="u3169-4.png" crc="3817113532" ref="phone>index"/>
+    <file name="img-20150726-wa0009.jpg" crc="364203542" seo="true" ref="phone>index"/>
+    <file name="promo-sushi sutido-18-piezas-sinprecio-crop-u3164.jpg" crc="3769013873" ref="phone>index"/>
+    <file name="img-20150726-wa0005.jpg" crc="152936733" seo="true" ref="index"/>
+    <file name="tori-palta-roll-pollo apanado-queso crema-ciboulette - 3980___2241x136.jpg" crc="334690685" seo="true" ref="index"/>
+    <file name="nosotros-crop-u3205.jpg" crc="3765404607" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4057520792" seo="true" mt="1438539598104" redirect="true"/>
+</manifest>
